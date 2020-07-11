@@ -1,7 +1,7 @@
 # PythonRandomNumber
 Python Random Number Game
 
-'''
+```
 #!/usr/bin/python3
 
 import random
@@ -19,4 +19,4 @@ while True:
 	elif i > num:
 		print('Lower.')
 
-/'''
+```
